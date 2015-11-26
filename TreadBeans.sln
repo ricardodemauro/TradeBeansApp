@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{4F2222
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreadBeans.Models", "TreadBeans.Models\TreadBeans.Models.csproj", "{E9AFA6B4-388F-44F2-812A-D003099E2B62}"
 EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "Architeture", "Architeture\Architeture.modelproj", "{55285133-B3C1-42B1-8852-852DC69D1B80}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		TreadBeans.Shared\TreadBeans.Shared.projitems*{e6a8eaa0-adfe-4d80-ba75-cc96612b5545}*SharedItemsImports = 4
@@ -88,6 +90,16 @@ Global
 		{E9AFA6B4-388F-44F2-812A-D003099E2B62}.Release|ARM.ActiveCfg = Release|Any CPU
 		{E9AFA6B4-388F-44F2-812A-D003099E2B62}.Release|x64.ActiveCfg = Release|Any CPU
 		{E9AFA6B4-388F-44F2-812A-D003099E2B62}.Release|x86.ActiveCfg = Release|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Release|ARM.ActiveCfg = Release|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Release|x64.ActiveCfg = Release|Any CPU
+		{55285133-B3C1-42B1-8852-852DC69D1B80}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

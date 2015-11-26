@@ -27,6 +27,15 @@ namespace TreadBeans.Models
             set { Set(ref name, value); }
         }
 
+        private long beans;
+
+        [JsonProperty("beans")]
+        public long Beans
+        {
+            get { return beans; }
+            set { Set(ref beans, value); }
+        }
+
         private string description;
 
         [JsonProperty("description")]

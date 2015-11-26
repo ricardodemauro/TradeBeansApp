@@ -9,9 +9,7 @@ namespace TreadBeans.Models
     public class Announciment : ModelBase
     {
         private string owner;
-        /// <summary>
-        /// Getter and Setter of Owner
-        /// </summary>
+        [JsonProperty("owner")]
         public string Owner
         {
             get { return owner; }
